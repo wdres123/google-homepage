@@ -1,19 +1,18 @@
 *{
-    box-sizing: border-box;
-}
-*{
-    margin: 0 auto;
-    padding: 0;
+  box-sizing:border-box
 }
 
-.google-logo{
-
+.center{
+  text-align: center;
 }
 
-.searchbox{
-
+.center .logo{
+  position: relative;
+  padding-top: 109px;
+} 
+    
+.center .searchbox{ 
+  position: relative;
+  margin: 10px;
 }
-
-.search-buttons{
-
-}
+    
