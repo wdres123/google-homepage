@@ -3,16 +3,28 @@
 }
 
 .center{
+  margin-top: 109px;
   text-align: center;
 }
 
-.center .logo{
+.logo{
   position: relative;
   padding-top: 109px;
 } 
     
-.center .searchbox{ 
+.searchbox{ 
   position: relative;
-  margin: 10px;
+  margin: 20px;
 }
+
+.searchbox input{ 
+  width: 500px; 
+  height: 30px;
+}
+
+.search-buttons{ 
+  margin: 20px;
+}
+
+
     
