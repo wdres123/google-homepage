@@ -9,17 +9,17 @@
 
 .logo{
   position: relative;
-  padding-top: 109px;
+  padding-top: 95px;
 } 
     
 .searchbox{ 
   position: relative;
-  margin: 20px;
+  margin: 30px;
 }
 
 .searchbox input{ 
   width: 500px; 
-  height: 30px;
+  height: 45px;
 }
 
 .search-buttons{ 
